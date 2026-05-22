@@ -5,5 +5,7 @@
 
 <img width="1724" height="930" alt="Bottom" src="https://github.com/The-Kriz/Split_Keyboard_v1/blob/main/Images/Bottom.png" />
 
+<img width="1724" height="930" alt="Bottom" src="https://github.com/The-Kriz/Split_Keyboard_v1/blob/main/Images/1_DIY_Keyboard_V1.jpeg" />
+
 
 Reference: [Rolio46Keyboard](https://github.com/MickiusMousius/Rolio46Keyboard)
